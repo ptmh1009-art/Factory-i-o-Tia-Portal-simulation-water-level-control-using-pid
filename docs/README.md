@@ -1,8 +1,8 @@
 # Tài liệu dự án
 
-Bổ sung báo cáo, sơ đồ và hướng dẫn vận hành tại đây.
+.
 
-## Cấu hình phần mềm và phần cứng
+## 
 
 | Mục | Giá trị |
 | --- | --- |
